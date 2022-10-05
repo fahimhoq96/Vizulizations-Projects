@@ -9,4 +9,4 @@ Comparing Work-Life Balance between Data Jobs. Respondants were asked to rate th
 Answering which is the favorite prommramming language among people interested in Data Science.
 
 # About Data Sets:
-The data is from a survey. The Survey was made by Alex Freberg by using social media. The data set was downloaded from  Alex Freberg's Github page.
+The data is from a survey. The Survey was made by Alex Freberg by using social media. The data set was downloaded from  Alex Freberg's Github page. There were a total of 630 participants.
