@@ -2,7 +2,7 @@
 
 # [Work Life Balance Dashboard](https://public.tableau.com/views/SurveyofDataJobs/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Comparing Work-Life Balance between Data Jobs. Respondants were asked to rate their Wrok-Life balance on a scale of 1 to 10.
+Comparing Work-Life Balance between Data Jobs. Respondants were asked to rate their Work-Life balance on a scale of 1 to 10.
 
 # [Programming Popularity](https://public.tableau.com/views/PopularityofprogrammingLanguages/PopularityofVariousProgrammingLanguages?:language=en-US&:display_count=n&:origin=viz_share_link)
 
